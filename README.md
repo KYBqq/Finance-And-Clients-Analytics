@@ -1,7 +1,7 @@
 Задание: Анализ финансовых транзакций и клиентов.
 Описание:
 
-Файл для просмотра: Finance & Client, Analytics.ipynb.
+Файл для просмотра: Finance & Client, Analytics.ipynb .
 
 ~~~
 Файл transactions_data.xlsx (данные о финансовых транзакциях):
